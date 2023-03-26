@@ -201,5 +201,40 @@
     "headline": "Global cybersecurity Conference BlackHat amazed by HackersEra's Vikash Chaudhary's CAN Bus hacking research",
     "article": "Vikash Chaudhary, CEO of HackersEra, India’s first vehicle PenTest company, was invited as a special speaker at the world’s biggest three-day long annual cybersecurity and hacking convention organized by Black Hat Middle East and Africa (Black Hat MEA) in Riyadh, Saudi Arabia. Chaudhary gave a detailed presentation on his latest research on automotive security tools for Can Bus Hacking",
     "link": "https://www.indiatoday.in/impact-feature/story/global-cybersecurity-conference-blackhat-amazed-by-hackerseras-vikash-chaudharys-can-bus-hacking-research-2302732-2022-11-28"
+  },
+  {
+    "date": "December 14, 2022",
+    "image": "https://images.cnbctv18.com/wp-content/uploads/2020/10/cyber-security-1019x573.jpg",
+    "headline": "HackersEra's research on CANBus hacking draws attention of cybersecurity experts",
+    "article": "Chaudhary shared the results of his research on automotive security tools for Can Bus hacking in a presentation called HackersEra V1. This presentation was seen by cybersecurity professionals and business owners from all over the world",
+    "link": "https://www.cnbctv18.com/business/hackerseras-research-on-canbus-hacking-draws-attention-of-cybersecurity-experts-15423931.htm"
+  },
+  {
+    "date": "January 27, 2023",
+    "image": "https://images.mid-day.com/images/images/2023/jan/HackersEra1_d.jpg",
+    "headline": "The Latest Automotive Security Risk: How HackersEra is Warning Automakers About Passive Keyless Entry System Hacking",
+    "article": "An intruder can exploit vulnerabilities in keyless entry and start systems using a digital theft technique known as a relay attack. Initially, the attacker stands close to the vehicle owner and transmits the signals he detects to his partner using a special device.",
+    "link": "https://www.mid-day.com/brand-media/article/the-latest-automotive-security-risk-how-hackersera-is-warning-automakers-23267493"
+  },
+  {
+    "date": "January 17, 2023",
+    "image": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1673934241.webp",
+    "headline": "HackersEra Hacks Car Keyless Entry Systems In India, Alerting Automakers, Insurance Companies, And Agencies",
+    "article": "Vikash Chaudhary, the CEO of HackersEra, and researchers conducted in-depth research on the novel attack vector for passive key entry and start systems in high-end cars with the goal of informing automakers about the game-changing method to break into the vehicles null.",
+    "link": "https://www.outlookindia.com/outlook-spotlight/hackersera-hacks-car-keyless-entry-systems-in-india-alerting-automakers-insurance-companies-and-agencies-news-254266"
+  },
+  {
+    "date": "January 28, 2023",
+    "image": "https://gumlet.assettype.com/freepressjournal/2023-01/35b3ae7d-aac1-4114-ba79-f8e60e5efeb9/Image.jpg?w=700&h=400&format=webp",
+    "headline": "HackersEra Engineers hack modern vehicle keyless entry and ignition systems and notify automakers",
+    "article": "Researchers led by the CEO of HackersEra, Vikash Chaudhary, have identified a novel attack vector for passive keyless entry and start systems. This discovery was made to inform automobile manufacturers of a game-changing technique for breaking into vehicles.",
+    "link": "https://www.freepressjournal.in/tech/car-hacking-unlock-the-future-of-automotive-security-automotive-cybersecurity-oem-vehicle-penetration-testing-autonomous-vehicle"
+  },
+  {
+    "date": "March 10, 2023",
+    "image": "https://assets.entrepreneur.com/content/3x2/2000/1678729917-VikashChaudharyfinal.jpg?format=pjeg&auto=webp&crop=16:9&width=675&height=380",
+    "headline": "The Entrepreneurial Mindset Behind This Company's Disruptive Approach to Automotive Cybersecurity",
+    "article": "The entrepreneurial mindset is all about identifying new opportunities, taking calculated risks, and finding creative solutions to complex problems. For Vikash Chaudhary, who started HackersEra in 2015, the opportunity was clear: to address the growing cybersecurity concerns in the automotive industry",
+    "link": "https://www.entrepreneur.com/en-in/news-and-trends/the-entrepreneurial-mindset-behind-this-companys/447352"
   }
 ]
